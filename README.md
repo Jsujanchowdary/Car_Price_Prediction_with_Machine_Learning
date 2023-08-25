@@ -17,12 +17,14 @@ The initial approach involves using the DecisionTreeRegressor from the sklearn.t
 
 Neural Network Model with TensorFlow/Keras:
 The project also demonstrates building a neural network model using the TensorFlow and Keras libraries. A simple neural network architecture is defined, comprising input, hidden, and output layers. The model is compiled with the mean squared error loss function and the Adam optimizer. The neural network is trained on standardized data and evaluated using the MAE metric.
+![image](https://github.com/Jsujanchowdary/Car_Price_Prediction_with_Machine_Learning/assets/91127394/19ea5264-f3d8-4ca9-a24d-67b411cf94fa)
 
 XGBoost and LightGBM Models:
 To further explore ensemble methods, the project introduces XGBoost and LightGBM, which are gradient boosting libraries designed for efficiency and performance. Both models are trained on the data, and their prediction performance is evaluated using MAE.
 
 Ridge and Lasso Regression:
 The project also delves into linear regression techniques by applying Ridge and Lasso regression models. These models use regularization to control overfitting and improve generalization. The features are standardized, and different values of the regularization parameter (alpha) are tested to achieve optimal results. The MAE metric is again used to evaluate performance.
+![image](https://github.com/Jsujanchowdary/Car_Price_Prediction_with_Machine_Learning/assets/91127394/265788a2-aae8-4352-9db3-cde40c83699a)
 
 Why This Project?
 
